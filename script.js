@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
             let currentSlide = 0;
             let slideInterval;
             let timerInterval;
-            const slideDuration = 3000; // 3 secondes
+            const slideDuration = 15000; // 3 secondes
             
             // Précharger les images
             function preloadImages() {
