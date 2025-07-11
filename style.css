@@ -8,7 +8,7 @@
 body {
   background: #f7f7f7;
   color: #222;
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 /* .header {
@@ -30,6 +30,16 @@ body {
   background: linear-gradient(to right, #1a2a6c, #3a4a9c);
   color: white;
 }
+
+.inscription-btn {
+    margin-left: auto; /* pousse l'élément complètement à droite */
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
         
 .logo-container {
   display: flex;
